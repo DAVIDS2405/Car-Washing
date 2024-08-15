@@ -1,2 +1,4 @@
 fastapi
 python-dotenv
+sqlalchemy
+python-jose
