@@ -2,3 +2,4 @@ fastapi
 python-dotenv
 sqlalchemy
 python-jose
+slowapi
